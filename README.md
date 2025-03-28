@@ -1,2 +1,3 @@
 # Links
-Links LinkedIn y Github
+- LinkedIn: https://www.linkedin.com/in/deisy-viviana-hurtado-vega-5374a3172
+- Github: 
